@@ -1,7 +1,7 @@
 
 /* Remove logo from top of page */
+html .Skin #Logo {display: none;}
 
-.Skin #Logo {display: none;}
 h2.noStyle,th{font-style:normal;font-weight:400}
 #ServerTime,caption{display:none}
 .Skin .AccessibleQuestionBody,a img,fieldset{border:none}
